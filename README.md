@@ -13,6 +13,7 @@ Users should be able to:
 - Custom CSS properties
 - Flexbox
 - CSS grid 
+- Mobile first workflow
 
 ### What I Learned
 
