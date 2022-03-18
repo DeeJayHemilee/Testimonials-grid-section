@@ -15,7 +15,15 @@ Users should be able to:
 - CSS grid 
 - Mobile first workflow
 
+### Links
+
+- Live Site URL: [Testimonial-grid-section](https://kunalbagnial.github.io/Testimonial-grid-section/)
+
 ### What I Learned
 
 I learned how to achieve this particular layout in an easy manner using CSS grid. Also I learned how to position grid items using grid lines in a grid layout.
 
+### Screenshots
+
+![screenshot for desktop design](./images/screenshot-desktop.png)
+![screenshot for mobile design](./images/screenshot-mobile.png)
