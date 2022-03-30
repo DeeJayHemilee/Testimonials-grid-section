@@ -1,0 +1,50 @@
+/*****************/
+/* MEDIA QUERIES */
+/*****************/
+@media (min-width: 48em) {
+  .testimonials__container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .testimonial:nth-child(1),
+  .testimonial:nth-child(4),
+  .testimonial:nth-child(5) {
+    grid-column: span 2;
+  }
+
+  .testimonial:nth-child(5) {
+    grid-row: 3;
+  }
+}
+
+@media (min-width: 62em) {
+  .testimonials__container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .testimonial:nth-child(1),
+  .testimonial:nth-child(4) {
+    grid-column: span 2;
+  }
+
+  .testimonial:nth-child(5) {
+    grid-column: span 3;
+    grid-row: 2;
+  }
+}
+
+@media (min-width: 75em) {
+  .testimonials__container {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .testimonial:nth-child(1),
+  .testimonial:nth-child(4) {
+    grid-column: span 2;
+  }
+
+  .testimonial:nth-child(5) {
+    grid-column: 4;
+    grid-row: 1 / span 2;
+  }
+}
