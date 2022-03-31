@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Live site URL: [Testimonial-grid-section](https://kunalbagnial.github.io/Testimonial-grid-section/)
+- Live site URL: [Testimonials-grid-section](https://kunalbagnial.github.io/Testimonials-grid-section/)
 
 ### What I Learned
 
