@@ -1,8 +1,5 @@
-/*****************/
-/* MEDIA QUERIES */
-/*****************/
 @media (min-width: 48em) {
-  .testimonials__container {
+  .testimonials-container {
     grid-template-columns: repeat(2, 1fr);
   }
 
@@ -18,7 +15,7 @@
 }
 
 @media (min-width: 62em) {
-  .testimonials__container {
+  .testimonials-container {
     grid-template-columns: repeat(3, 1fr);
   }
 
@@ -34,7 +31,7 @@
 }
 
 @media (min-width: 75em) {
-  .testimonials__container {
+  .testimonials-container {
     grid-template-columns: repeat(4, 1fr);
   }
 
